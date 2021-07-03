@@ -12,5 +12,4 @@ const CONFIG = {
     mess: '🥰',
     messDesc: '现在回去跟香香聊天吧 ！',
     btnAccept: '好啊<3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
-}
+    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.node
